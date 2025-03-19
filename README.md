@@ -50,7 +50,7 @@ Work life balance is truly signing off at the end of the day. Not answering emai
 
 When I was at Centene, I offered my team extreme flex time. They could work whatever hours they needed to during the week as long as they were there for core hours at least three days a week (10-3 CST). That allowed two people to work four days a week, one worked 8 hours a day but took between 9-11 AM off and sometimes altered those times so he could take a long weekend to camp with his family. I had another employee who preferred the consistency of working each day. The flexibility to take time off as needed, to step away and take a breather or just to think, the assurance that the work will be there tomorrow and so will your job was invaluable.
 
-I may send something at a late hour on Zoom Chat Slack, or via text but when I say I don’t expect a response after hours, on a day off, on a weekend, whatever – I mean it. I just don’t want to forget something so I try to get it out there as soon as I can.
+I may send something at a late hour on Zoom Chat, Slack, or via email but when I say I don’t expect a response after hours, on a day off, on a weekend, whatever – I mean it. I just don’t want to forget something so I try to get it out there as soon as I can.
 
 For team meetings, I prefer a detailed agenda, outcomes we can track, and a bit of a head’s up so I can come prepared whenever possible.
 
@@ -60,9 +60,10 @@ Diverse feedback and experience makes for a better journey. We may not have cons
 Just because someone has always worked on something doesn’t mean they’re the best person to continue to work on that same thing. Differing viewpoints and experiences help us innovate.
 
 While DACI and RACI may be seen as something for big organizations, even a small startup can benefit from knowing who needs to make the decisions to avoid a bottleneck.
-Expectations and Feedback
 
-I’m extremely transparent with my teams. I do believe in managers protecting their teams, but don’t believe in hiding or shielding them. We are all working toward the same goals, so I may be more candid than you’re used to. I may challenge you, or ask how you think we can work better together. I’ll admit when I’m wrong—I can’t learn to get better if I don’t know where I’m failing.
+## Expectations and Feedback
+
+I’m extremely transparent with my teams. I believe in managers protecting their teams, but don’t believe in hiding or shielding them. We are all working toward the same goals, so I may be more candid than you’re used to. I may challenge you, or ask how you think we can work better together. I’ll admit when I’m wrong, I can’t learn to get better if I don’t know where I’m failing.
 
 I believe the same for my team. Jonathan Raymond’s The Accountability Dial is an exceptional tool.  It emphasizes addressing issues in real-time by having direct, honest conversations as soon as something is noticed. It encourages taking immediate and constructive action to ensure problems are resolved quickly. 
 
