@@ -4,7 +4,7 @@
 
 Hi! My name is Danielle (or Elle like the letter L), and I look forward to getting to know you. I am currently a Fractional Head of Product, UX/UI, and Design. With over 25 years of experience in design, user experience, accessibility, and product management, I have worked across various industries, from law enforcement software to healthcare, and I’m passionate about creating products that delight users while being inclusive and accessible. 
 
-The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But I are human, and this isn’t a contract but a relationship we’ll build upon. This is a way to introduce how we can work together, and I’m excited to hear from you.
+The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But I am human, and this isn’t a contract but a relationship we’ll build upon. This is a way to introduce how we can work together, and I’m excited to hear from you.
 
 I understand that companies often have their employees create documents like this and they’re misused and misinterpreted. If you see me doing something that isn’t reflective of these values, please call me out so that I can improve (preferably when it happens and not at an annual review).
 
