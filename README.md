@@ -26,7 +26,7 @@ Success is all but guaranteed if:
 
 ## My Leadership Philosophy
 
-In Taoism, there's a concept called wu wei, which means "effortless action" or "non-action." It teaches that the most effective approach often comes from being in tune with the natural flow of the situation, rather than imposing rigid control. I see this as a guiding principle for my leadership—helping teams to act with fluidity and responsiveness to the challenges they face, without forcing solutions.
+In Taoism, there's a concept called wu wei, which means "effortless action" or "non-action." It teaches that the most effective approach often comes from being in tune with the natural flow of the situation, rather than imposing rigid control. I see this as a guiding principle for my leadership—helping teams to act with fluidity and responsiveness to the challenges they face, without forcing solutions. (And yes, I use em dashes in my writing.)
 
 My role as a leader is to provide strategy, goals, and context to teams, then step back and trust the right actions to emerge. I trust teams to come up with the best ways to accomplish our goals through the product. While I am ultimately accountable for the outcomes, I remain closely involved in the details, providing guidance and context through questions and suggestions, rather than imposing top-down mandates. I like to surround myself with a team that knows things I don’t, that are specialists in their niche, and that I know can do the job.
 
