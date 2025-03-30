@@ -30,7 +30,7 @@ In Taoism, there's a concept called wu wei, which means "effortless action" or "
 
 My role as a leader is to provide strategy, goals, and context to teams, then step back and trust the right actions to emerge. I trust teams to come up with the best ways to accomplish our goals through the product. While I am ultimately accountable for the outcomes, I remain closely involved in the details, providing guidance and context through questions and suggestions, rather than imposing top-down mandates. I like to surround myself with a team that knows things I don’t, that are specialists in their niche, and that I know can do the job.
 
-And if they don’t know how, I trust that they will figure it out.
+And if they don’t know how, I trust that they will figure it out, and I'll be there to brainstorm, bounce ideas off of, or help research. I'm no stranger to being an IC and am ready to dive in if needed.
 
 If the reason behind what’s being asked is unclear, or if you feel like necessary context is lacking to do your job well, please let me know. The why behind what we do is essential for our success.
 
@@ -48,7 +48,7 @@ I’m not saying I don’t like video meetings, you can get a lot from watching 
 
 Work life balance is truly signing off at the end of the day. Not answering emails on the weekend. Not expecting the team to be up at 11 PM for a call. I understand those times may happen, but I believe that to be your best at work, you need to be your best at home.
 
-When I was at Centene, I offered my team extreme flex time. They could work whatever hours they needed to during the week as long as they were there for core hours at least three days a week (10-3 CST). That allowed two people to work four days a week, one worked 8 hours a day but took between 9-11 AM off and sometimes altered those times so he could take a long weekend to camp with his family. I had another employee who preferred the consistency of working each day. The flexibility to take time off as needed, to step away and take a breather or just to think, the assurance that the work will be there tomorrow and so will your job was invaluable.
+When I was at Centene, I offered my team extreme flex time. They could work whatever hours they needed to during the week as long as they were there for core hours at least three days a week (10-3 CST). That allowed two people to work four days a week, one worked 8 hours a day but took between 9-11 AM off and sometimes altered those times so he could take a long weekend to camp with his family. I had another employee who preferred the consistency of working each day. The flexibility to take time off as needed, to step away and take a breather or just to think, the assurance that the work will be there tomorrow and so will your job, was invaluable.
 
 I may send something at a late hour on Zoom Chat, Slack, or via email but when I say I don’t expect a response after hours, on a day off, on a weekend, whatever – I mean it. I just don’t want to forget something so I try to get it out there as soon as I can.
 
