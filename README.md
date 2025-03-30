@@ -52,7 +52,7 @@ When I was at Centene, I offered my team extreme flex time. They could work what
 
 I may send something at a late hour on Zoom Chat, Slack, or via email but when I say I don’t expect a response after hours, on a day off, on a weekend, whatever – I mean it. I just don’t want to forget something so I try to get it out there as soon as I can.
 
-For team meetings, I prefer a detailed agenda, outcomes we can track, and a bit of a head’s up so I can come prepared whenever possible.
+For team meetings, I prefer a detailed agenda, outcomes we can track, and a bit of a head’s up so I can come prepared whenever possible. But if you need to have a quick huddle then let's do it. I'd rather reach out or have my team reach out to ask questions than wander aimlessly for hours. 
 
 ## Decision-Making Style
 
